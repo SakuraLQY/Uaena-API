@@ -1,0 +1,9 @@
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+uaena:
+  client:
+    access-key: sakura
+    secret-key: abcdefgh
+
